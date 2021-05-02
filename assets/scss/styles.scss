@@ -1,0 +1,22 @@
+body {
+  //background-color: #1c1f23;
+}
+
+main {
+  .clean-hero {
+    background-image:url(../../assets/img/tech/image4.jpg);
+    color:rgba(9, 162, 255, 0.85);
+  }
+}
+
+.blog-post {
+  .clean-block {
+    .container {
+      .block-content {
+        .post-image {
+          background-image:url(../../assets/img/scenery/image3.jpg);
+        }
+      }
+    }
+  }
+}
